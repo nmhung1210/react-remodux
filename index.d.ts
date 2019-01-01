@@ -3,5 +3,5 @@ declare module 'react-remodux' {
     store: any,
     mapStateToProps?: (state: any) => any,
     mapDispatchToProps?: (dispatch: any) => any
-  ) : any;
+  ): any;
 }
